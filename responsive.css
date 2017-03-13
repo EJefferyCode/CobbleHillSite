@@ -1,0 +1,161 @@
+@media screen and (min-width: 180px) {
+   #wrapper3, #wrapper4, #wrapper5 {
+    border-color:purple;
+    } 
+    
+    .p {
+    width:10%;
+    }
+    
+    #wrapper3 h5 {
+    margin-right:-2em;
+    }
+    
+    #wrapper4 h5 {
+    margin-right: -2em;
+    }
+    
+    #wrapper5 h5 {
+    margin-right: -1.2em;
+    }
+    
+    h3 {
+    margin-top: 4.9em;
+    }
+    
+    #squares {
+    padding-bottom: 10em;
+    }
+    
+    
+    
+}
+
+@media screen and (min-width: 480px) {
+    #wrapper3, #wrapper4, #wrapper5 {
+    border-color:blue;
+   
+    }
+    
+    .p {
+    width:20%;
+    }
+    
+    h3 {
+    margin-top:1.9em;
+    }
+    
+    #squares {
+    padding-bottom:10em;
+    }
+    
+    #wrapper2 {
+    height:30%;
+    width:65%;
+    margin-top:7em;
+    }
+    
+    #mes {
+    height:25%;
+    }
+    
+    #contact h3 {
+    font-size:80%;
+    color:purple;
+    text-shadow: none;
+    
+    }
+}
+
+@media screen and (min-width: 768px) {
+    #wrapper3, #wrapper4, #wrapper5 {
+    border-color:red;
+  
+    }
+    
+    .p {
+    width:60%;
+    }
+    
+    h3 {
+    margin-top:-0.9px;
+    }
+    
+    #squares {
+    padding-bottom: 0.8em;
+    }
+    
+    #wrapper3 h5 {
+    margin-right:0.2em;
+    }
+    
+    #wrapper4 h5 {
+    margin-right: 0.2em;
+    }
+    
+    #wrapper5 h5 {
+    margin-right: 0.2em;
+    }
+    
+    #wrapper2 {
+    height:30%;
+    width:65%;
+    margin-top:2.7em;
+    }
+    
+    #contact {
+    margin-top:2em;
+    }
+    
+    #contact h3 {
+    color:#01EE70;
+    text-shadow: 1px 1px black;
+    cursor:auto;
+    margin-top:15%;
+    }
+    
+}
+
+@media screen and (min-width: 1068px) {
+    #wrapper3, #wrapper4, #wrapper5 {
+    border-color:green;
+    }
+    
+    #wrapper3 h5 {
+    margin-right:6em;
+    }
+    
+    #wrapper4 h5 {
+    margin-right: 6em;
+    }
+    
+    #wrapper5 h5 {
+    margin-right: 6em;
+    }
+    
+     #wrapper2 {
+    height:30%;
+    width:65%;
+    }
+    
+    #contact {
+    margin-top:5em;
+    }
+    
+    #name, #email, #number {
+    margin-left: 170px;
+    }
+    
+    #contact h3 {
+    font-size:17;
+    }
+    
+}
+
+
+
+
+
+
+
+
